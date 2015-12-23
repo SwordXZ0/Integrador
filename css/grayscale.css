@@ -110,6 +110,12 @@ p {
     text-align: justify;
 }
 
+.p2{
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+     font-size: 18px;
+     line-height: 1.5;
+}
+
 @media(min-width:767px) {
     p {
         margin: 0 auto;
